@@ -53,7 +53,7 @@ AI-Resume-Screening-Tool/
 ├── app.py                # Main Streamlit App
 ├── requirements.txt     # Dependencies
 ├── README.md            # Project Documentation
-|---resumes/
+|---resumes/             # resumes here
 
 ```
 
