@@ -1,0 +1,2 @@
+We are looking for a Python developer with skills in machine learning, data analysis, and deep learning.
+Experience with TensorFlow, Pandas, and NLP is a plus.
